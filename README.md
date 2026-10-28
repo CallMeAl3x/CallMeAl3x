@@ -11,7 +11,7 @@ Développeur full stack à Paris : alternance chez CashNow (Symfony, React, Type
 **Autres réalisations**
 
 - [celiagruss.com](https://celiagruss.com) : site vitrine bilingue pour une comédienne et voix off
-- [Mon fork de Rybbit](https://github.com/CallMeAl3x/rybbit), l'outil d'analytics open source que j'héberge et adapte pour MapGuesser
+- [portfolio.bonefons.com](https://portfolio.bonefons.com) : mon portfolio, en français et en anglais
 
 **Stack** : React, Next.js, TypeScript, Node.js / Bun, PostgreSQL, Supabase, Symfony, Tailwind CSS
 
